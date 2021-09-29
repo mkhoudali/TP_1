@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 30E3-156D
+
+ R‚pertoire de C:\Users\Mourad\DevOps\Test_Collectif
+
+29/09/2021  10:00    <DIR>          .
+29/09/2021  10:00    <DIR>          ..
+29/09/2021  10:00                 0 test.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  18ÿ925ÿ887ÿ488 octets libres
